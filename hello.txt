@@ -2,3 +2,4 @@ hello world Su
 edit
 git reset
 branch1 add
+now is branch1
