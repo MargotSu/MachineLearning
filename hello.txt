@@ -3,3 +3,4 @@ edit
 git reset
 branch1 add
 now is branch1
+Creating a new branch is quick AND simple.
