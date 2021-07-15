@@ -4,4 +4,6 @@ git reset
 branch1 edit
 branch1 add
 main add this
+Creating a new branch is quick AND simple.
 Creating a new branch is quick & simple.
+
